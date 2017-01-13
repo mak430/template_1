@@ -1,0 +1,36 @@
+.para_title {
+  font-size: 21px;
+  font-family: 'Open Sans',sans-serif;
+}
+.para_block {
+  font-size: 13px;
+  font-family: 'Open Sans',sans-serif;
+  width: 300px;
+}
+.para_block textarea {
+  height: 76px;
+}
+.para_block input, .para_block textarea {
+  margin: 0px 0px 4px 0px;
+  padding: 5px;
+  border: 0px;
+  width: 250px;
+}
+.para_block .button {
+  width: auto;
+}
+.para_block_2 {
+  width: 380px;
+}
+.para_block_2 input {
+  display: block;
+  float: right;
+  height: 16px;
+}
+.para_block_3 {
+  width: 260px;
+  text-align: right;
+}
+.map {
+  padding-top: 40px;
+}

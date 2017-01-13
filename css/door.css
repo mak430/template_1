@@ -1,0 +1,25 @@
+.col {
+  margin-left: 5px;
+  width: 310px;
+  height: 450px;
+  font-size: 12px;
+}
+.col_first {
+  margin-left: 0px;
+}
+.col .para_image {
+  margin: 0px 5px 28px 0px;
+}
+.col .col_title {
+  font-size: 21px;
+  font-family: 'Open Sans',sans-serif;
+  display: block;
+}
+.col .para_1 {
+  font-size: 12px;
+  font-family: Arial;
+  margin: 0px 20px 0px 0px;
+}
+.col .para_1 p {
+  margin-top: 0px;
+}

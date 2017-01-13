@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<html>
+<template_head>
+  <meta charset="utf-8" />
+  <title>新龍裝飾有限公司</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <link href='https://fonts.googleapis.com/css?family=Enriqueta' rel='stylesheet' type='text/css' />
+  <link href="../css/template.css" rel="stylesheet" type="text/css" />
+</template_head>
+<template_body>
+  <div class="wrapper margin_auto background_white">
+    <div class="header border_color_theme">
+      <div class="text_align_right language_toggle"></div>
+      <div class="clear_both line_height_0"></div>
+      <div class="float_left">
+        <img src="../image/template/logo.jpg" />
+      </div>
+      <div class="name font_1 color_theme float_left">
+        新龍裝飾有限公司<br />SUN LUNG DECORATION CO LTD
+      </div>
+      <div class="float_right">
+        <img src="../image/template/image1.jpg" />
+      </div>
+      <ul id="menu" class="position_absolute margin_0px padding_0px color_white list_style_none text_align_center">
+        <li class="float_left"><a href="index.htm" class="background_color_theme background_color_hover a_reset">首頁</a></li>
+        <li class="float_left"><a href="company_profile.htm" class="background_color_theme background_color_hover a_reset">公司簡介</a>
+          <ul class="margin_0px padding_0px list_style_none border_color_white">
+            <li><a href="get_in_touch.htm" class="background_color_theme background_color_hover a_reset">聯絡我們</a></li>
+          </ul>
+        </li>
+        <li class="float_left"><a href="#" class="background_color_theme background_color_hover a_reset">產品</a>
+          <ul class="margin_0px padding_0px list_style_none border_color_white">
+            <li><a href="chiller.htm" class="background_color_theme background_color_hover a_reset">Chiller</a></li>
+            <li><a href="backup.htm" class="background_color_theme background_color_hover a_reset">backup</a></li>
+            <li><a href="door.htm" class="background_color_theme background_color_hover a_reset">door</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <div id="template_content_socket" class="content clear_both">[--template_content--]</div>
+    <div class="clear_both line_height_0"></div>
+    <div class="footer clear_both border_color_theme color_darkgrey background_white">
+      <div class="para_1 float_left">新龍裝飾有限公司</div>
+      <div class="para_2 float_left">T: 23837129 \ F: 23823118 \ <a href="mailto:email@sunlung.com.hk" class="a_reset">email@sunlung.com.hk</a></div>
+      <div class="clear_both line_height_0"></div>
+    </div>
+  </div>
+</template_body>
+</html>

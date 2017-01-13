@@ -1,0 +1,15 @@
+.para_title {
+  font-size: 21px;
+  font-family: 'Open Sans',sans-serif;
+}
+.para_block {
+  font-size: 12px;
+  font-family: Arial;
+  width: 440px;
+}
+.para_block_1 {
+  padding-right: 28px;
+}
+.para_block_2 {
+  padding-left: 28px;
+}

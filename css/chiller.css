@@ -1,0 +1,14 @@
+.gallery_block {
+  float: left;
+  overflow: hidden;
+  width: 299px;
+  height: 235px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 14px 14px 0px 0px;
+}
+.gallery_block img {
+  opacity: 0;
+  width: 100%;
+}

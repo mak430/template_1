@@ -1,0 +1,3 @@
+body::before {
+  content: url(../image/template/logo.jpg) "新龍裝飾有限公司 SUN LUNG DECORATION CO LTD" url();
+}
