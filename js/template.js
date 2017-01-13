@@ -1,4 +1,4 @@
-var url = "http://code.jquery.com/ui/1.11.4/jquery-ui.js";
+var url = "//code.jquery.com/ui/1.11.4/jquery-ui.js";
 if (location.href.indexOf('.htm') < 0) {
   location.href = './index.htm';
 }
